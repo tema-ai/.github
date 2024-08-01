@@ -1,5 +1,5 @@
-# Tema AI
-
-In a world where climate disruption is inevitable, Tema AI makes it investable.
-
-![World Loop GIF](images/WorldLoop.gif)
+<div align="center">
+    <h1 align="center">Tema AI</h2>
+    <p align="center">In a world where climate disruption is inevitable Tema AI makes it    investable</p>
+    <img src="images/WorldLoop.gif"/>
+</div>
